@@ -7,7 +7,7 @@ import (
         "time"
         "bufio"
         "encoding/json"
-		"os"
+	"os"
         "cloud.google.com/go/storage"
         "cloud.google.com/go/bigquery"
 )
